@@ -22,7 +22,7 @@ This project uses publicly available Binance `/api/v3/aggTrades` endpoint — **
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/crypto-microstructure.git
+git clone https://github.com/Matthew-Carlino/crypto-microstructure.git
 cd crypto-microstructure
 pip install -r requirements.txt
 ```
